@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+videos/
+screenshots/
+package-lock.json
+cypress/e2e/1*
+cypress/e2e/2*
